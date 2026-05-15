@@ -849,6 +849,11 @@ Some possible next steps would be:
 4. parallel OSINT workers
 5. a proper "investigation graph engine"
 
+To test it it run:
+```
+python3 main.py
+```
+
 
 
 

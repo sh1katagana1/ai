@@ -1755,7 +1755,6 @@ Completely different
 ```
 
 ### Load Articles
-```
 This loads: articles_fingerprints.json into memory. Now: 'articles' contains all fingerprinted incidents.
 
 ### Create Tracking Variables

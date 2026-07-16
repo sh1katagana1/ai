@@ -3711,7 +3711,28 @@ This confirms the file was generated successfully.
 ## Wrap Up
 Essentially, you create the paths and files as I have laid out and in the main folder you run the ./run_brief.sh. It will kick off each script in succession and generate two reports in the reports folder. 
 
+## Examples
+Here are some pics of the workflow when you run the run_brief.sh script
 
+![](dailybrief1.png)
+
+![](dailybrief2.png)
+
+![](dailybrief3.png)
+
+![](dailybrief4.png)
+
+![](dailybrief5.png)
+
+![](dailybrief6.png)
+
+![](dailybrief7.png)
+
+![](dailybrief8.png)
+
+![](dailybrief9.png)
+
+![](dailybrief10.png)
 
 
 

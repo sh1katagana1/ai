@@ -79,13 +79,10 @@ Edit your config.py file and put:
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 MODELS = [
-    "openai/gpt-oss-120b:free",
-    "openai/gpt-oss-20b:free",
-    "meta-llama/llama-3.3-70b-instruct:free",
-    "qwen/qwen3-next-80b-a3b-instruct:free"
+    "openrouter/free"
 ]
 ```
-These are the free models I found to be working well. It mainly used the openai/gpt-oss ones. 
+OpenRouter currently documents openrouter/free as a free router that selects among the free models available at request time, and it currently has 25 free models behind it. 
 
 ## Feeds
 Edit your feeds.txt file:
